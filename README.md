@@ -66,7 +66,8 @@ I actively learn from platforms like YouTube, Google, and ChatGPT, and I enjoy s
 
 **Government College University, Faisalabad**
 📅 *2022 – Present*
-🎓 EQF Level 6
+
+🎓 semester-7
 
 
 
@@ -80,7 +81,7 @@ I actively learn from platforms like YouTube, Google, and ChatGPT, and I enjoy s
 ## 🤝 Let’s Connect
 
 ✔ Email: **[irtizaa070@gmail.com](mailto:irtizaa070@gmail.com)**
-✔ WhatsApp: *"Hi, this is Irtiza Akram. How can I help you today?"*
+✔ WhatsApp: *+923217652398*
 ✔ Location: Faisalabad, Pakistan
 
 
