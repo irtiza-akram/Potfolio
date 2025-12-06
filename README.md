@@ -43,6 +43,46 @@ I actively learn from platforms like YouTube, Google, and ChatGPT, and I enjoy s
 
 
 
+## ✅ **ML Projects**
+
+### **1. Fake News Detection System**
+
+* Built using **Python, TF-IDF, and Naive Bayes**
+* Achieved **92% accuracy**
+* Worked with real-world text datasets
+* Included preprocessing, vectorization, and classification
+
+---
+
+### **2. Spam Message Classifier**
+
+* Implemented using **Logistic Regression**
+* Focused on **precision and recall optimization**
+* Used scikit-learn, pandas, and NumPy
+* Classified SMS messages as *spam* or *not spam*
+
+---
+
+### **3. Data Visualization Project**
+
+* Used **matplotlib & seaborn**
+* Explored datasets using graphs, charts, and correlations
+* Visualized model performance and training data distributions
+
+---
+
+### **4. Multiple Learning Experiments (during internship)**
+
+* Tried different ML algorithms
+* Practiced:
+
+  * Naive Bayes
+  * Decision Trees
+  * K-Means (basic understanding)
+  * Feature engineering
+  * Data cleaning & preprocessing
+
+
 ## 💼 Experience
 
 ### **Machine Learning Intern — DevelopersHub.co**
