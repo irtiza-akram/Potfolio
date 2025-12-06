@@ -81,7 +81,7 @@ I actively learn from platforms like YouTube, Google, and ChatGPT, and I enjoy s
 ## 🤝 Let’s Connect
 
 ✔ Email: **[irtizaa070@gmail.com](mailto:irtizaa070@gmail.com)**
-✔ WhatsApp: *+923217652398*
+✔ WhatsApp: *[+923217652398](+923217652398)*
 ✔ Location: Faisalabad, Pakistan
 
 
